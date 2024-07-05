@@ -11,6 +11,7 @@ public class Calculator {
 
             if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%') {
                 // input two numbers
+                
                 System.out.print("Enter two numbers: ");
                 int num1 = in.nextInt();
                 int num2 = in.nextInt();
